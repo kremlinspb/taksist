@@ -1,2 +1,0 @@
-# taksist
-Buh halter
